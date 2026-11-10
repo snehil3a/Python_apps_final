@@ -17,3 +17,9 @@ print("this is new line");
 
 print("hello from using ui New");
 
+a = 5;
+b = 7;
+c = a+b;
+print (c);
+
+
