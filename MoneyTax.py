@@ -20,6 +20,6 @@ print("hello from using ui New");
 a = 5;
 b = 7;
 c = a+b;
-print (c);
+print (a,b,c);
 
 
