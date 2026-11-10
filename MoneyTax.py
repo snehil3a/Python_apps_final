@@ -15,3 +15,5 @@ print(money_left)
 
 print("this is new line");
 
+print("hello from using ui New");
+
