@@ -7,7 +7,7 @@ money = 50
 item_price = 15
 tax_rate = 0.03
 
-tax = item_price * tax_rat
+tax = item_price * tax_rate
 total_cost = item_price + tax
 money_left = money - total_cost
 
@@ -20,6 +20,6 @@ print("hello from using ui New");
 a = 5;
 b = 7;
 c = a+b;
-print (a,b,c);
+print (a,b,c,a);
 
 
