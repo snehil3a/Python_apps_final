@@ -22,3 +22,11 @@ print(year_code)
 initials = employee_code[9:11]
 print('Initials:', initials)
 
+
+
+
+email = 'alice.johnson@company.com'
+print(f'Email: {email}')
+at_position= email.find('@')
+at_position = email.find('@')
+print(f"Position of @: {at_position}")
